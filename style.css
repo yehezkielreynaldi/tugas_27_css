@@ -1,0 +1,30 @@
+div{
+    text-align: center;
+    border: 1px solid;
+    padding: 10px;
+    color: #ffffff;
+}
+
+.container-fluid{
+    background-color: #2ea3f2;
+}
+
+.col-lg-10{
+    background-color: #008001;
+}
+
+.col-lg-8{
+    background-color: blue;
+}
+
+.col-lg-6{
+background-color: red;
+}
+
+.col-lg-4{
+    background-color: yellow;
+}
+
+.col-lg-2{
+    background-color: purple;
+}
